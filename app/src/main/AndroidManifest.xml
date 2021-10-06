@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.agrobuy.app.admin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Admin">
+        <activity
+            android:name=".DeliveryPartnerDetailsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DeliveryPartnerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddDeliveryPartnerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddBuyerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TradeFinanceActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UsersActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AdminHomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TradeFinanceDetailsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BuyerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BuyerDetailActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="agrobuy">Agrobuy</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="state">No users</string>
+    <string name="add_buyer">Add buyer</string>
+    <string name="add_delivery_partner">Add Delivery Partner</string>
+    <string name="buyer_id">Buyer ID</string>
+
+    <!-- Email -->
+    <string name="admin_email">766973686e75406167726f6275792e636f</string>
+    <string name="loading">Loading…</string>
+    <string name="no_user_found">No user found.</string>
+    <string name="no_finance">No one has applied for finance</string>
+    <string name="no_delivery_partner">No one has applied for delivery partner</string>
+</resources>

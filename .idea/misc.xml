@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/divider.xml" value="0.17" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1315" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/add_buyer.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/add_delivery_partner.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/admin_home.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/buyer_detail.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/delivery_partner_add.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/export_logistics.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/finance_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/list.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/login_layout.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/trade_finance_applied_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/user_config.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/users.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
